@@ -6,4 +6,4 @@ Forked from tutumcloud/ntpd which is no longer supported
 
 ## Usage
 
-	docker run -d --privileged whplein/ntpd
+	docker run -d --privileged bplein/ntpd
